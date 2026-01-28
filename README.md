@@ -1,6 +1,6 @@
 ## ⚡ Products list appending with fragment method | Task 4
-    
-    A Input form created for Javascript practice with Tailwindcss
+
+    A Javascript knowledge, Adding maximum products into DOM without performance issue
 
 ### 📒 Stacks used:
 
